@@ -5,7 +5,7 @@
 
 ## 🚀 Live Interactive Dashboard (R Shiny)
 
-https://cloud-seeding-analysis.shinyapps.io/cloud-seeding-dashboard/
+[https://cloud-seeding-analysis.shinyapps.io/cloud-seeding-dashboard/](https://cloud-seeding-analysis.shinyapps.io/Project2/)
 
 An interactive decision-support dashboard for analyzing rainfall patterns and cloud seeding feasibility across Indian states.
 
@@ -64,24 +64,6 @@ Screenshot:
 
 ---
 
-## 📁 Repository Structure
-
-Cloud_Seeding_Research/
-├── shiny-dashboard/
-│   ├── app.R
-│   └── synthetic_india_cloud_seeding_weather.csv
-├── powerbi/
-│   ├── powerbi_cloud_seeding_analytics.csv
-│   └── cloud_seeding_dashboard.pbix
-├── screenshots/
-│   ├── rainfall_trend.png
-│   ├── csi_by_state.png
-│   ├── rainfall_heatmap.png
-│   └── state_rainfall_boxplot.png
-├── docs/
-│   └── methodology.md
-├── .gitignore
-└── README.md
 
 ---
 
