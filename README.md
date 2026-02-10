@@ -5,7 +5,7 @@
 
 ## 🚀 Live Interactive Dashboard (R Shiny)
 
-[https://cloud-seeding-analysis.shinyapps.io/cloud-seeding-dashboard/](https://cloud-seeding-analysis.shinyapps.io/Project2/)
+[Website](https://cloud-seeding-analysis.shinyapps.io/Project2/)
 
 An interactive decision-support dashboard for analyzing rainfall patterns and cloud seeding feasibility across Indian states.
 
