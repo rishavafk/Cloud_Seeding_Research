@@ -48,9 +48,14 @@ Higher CSI values indicate better suitability for cloud seeding.
 - Multivariate correlation analysis
 
 Screenshots:
-- screenshots/rainfall_trend.png
-- screenshots/csi_by_state.png
-- screenshots/rainfall_heatmap.png
+![Rainfall Trend](screenshots/rainfall_trend.png)
+
+![Cloud Seeding Index by State](screenshots/csi_by_state.png)
+
+![State–Year Rainfall Heatmap](screenshots/rainfall_heatmap.png)
+
+![State-wise Rainfall Distribution (Power BI)](screenshots/state_rainfall_boxplot.png)
+
 
 ### Power BI Dashboard
 - KPI cards (Rainfall, CSI, Humidity)
