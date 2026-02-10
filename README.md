@@ -48,7 +48,6 @@ Higher CSI values indicate better suitability for cloud seeding.
 <img src="screenshots/state_rainfall_boxplot.png" width="400" alt="Power BI Dashboard">
 
 ---
----
 ## 🛠️ Tech Stack
 - R (dplyr, tidyr, ggplot2, GGally)
 - Shiny & shinydashboard
